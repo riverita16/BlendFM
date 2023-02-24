@@ -1,4 +1,4 @@
-# BlendFM
+# BlenderFM
 Simple Spotify api command-line application to create custom playlists based on user input.
 
 **Steps to run:**
