@@ -7,6 +7,7 @@ import json
 import sys
 from random import randint, shuffle
 
+# Local host ip address is almost always 127.0.0.1
 HOST_IP_ADDRESS = ''
 HOST_PORT = '8080'
 
