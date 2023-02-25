@@ -2,6 +2,7 @@
 Simple Spotify api command-line application to create custom playlists based on user input.
 
 **Steps to run:**
+- You must have a Spotify Developer Account
 - Ensure you have all included packages installed on your machine.
 - Set IP address as the program runs locally.
 - Set environment variables for client-specific variables or insert into templated code (not good practice).
